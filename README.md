@@ -1,9 +1,8 @@
-# WTelegramSession2GramJS
-WTelegram session file to GramJS session string converter
+WTelegramClient session file to GramJS session string converter
+https://github.com/wiz0u/WTelegramClient
 
-
-This tool converts a WTelegram session file to a GramJS session string.
+This tool converts a WTelegramClient session file to a GramJS session string.
 
 Usage: node toSessionStr.js sessionFile apiHash
 
-Example: node toSessionStr.js wtelegram.session XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Example: node toSessionStr.js WTelegramClient.session XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
